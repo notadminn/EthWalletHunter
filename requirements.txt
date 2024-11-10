@@ -1,0 +1,8 @@
+requests
+blessed
+psutil
+rich
+cryptofuzz
+mnemonic
+pycryptodome
+pywin32
