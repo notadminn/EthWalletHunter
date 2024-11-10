@@ -15,10 +15,10 @@ This project is an Ethereum wallet generator and checker. It generates Ethereum 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/notadminn/Ethereum-Cracker-Generator
+   git clone https://github.com/notadminn/EthWalletHunter
 2. **Install & Run**:
 ```bash
-   cd Ethereum-Cracker-Generator
+   cd EthWalletHunter
    pip install -r requirements.txt
    python cracker.py
 
