@@ -1,4 +1,4 @@
-# Ethereum Cracker Generator and Checker
+# Ethereum Wallet Generator and Checker
 
 This project is an Ethereum wallet generator and checker. It generates Ethereum wallets by creating random mnemonic phrases, derives corresponding private keys and addresses, and checks if any of these addresses have a transaction history or a balance on the Ethereum blockchain. If an address is found with a transaction history or a non-zero balance, it saves the wallet details in a file.
 
